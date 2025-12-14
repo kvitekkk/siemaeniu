@@ -1,6 +1,5 @@
 import streamlit as st
 
-
 # Tytuł aplikacji
 st.title("📦 Prosty Magazyn")
 
